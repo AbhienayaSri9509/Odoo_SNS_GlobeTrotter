@@ -4,7 +4,7 @@
 
 GlobeTrotter is a personalized, intelligent, and collaborative travel planning application designed to simplify and enhance the way people plan trips. The platform enables users to design multi-city itineraries, manage travel dates and activities, estimate budgets automatically, and share travel plans publicly or with friends. By combining structured planning with an interactive user experience, GlobeTrotter makes travel planning as exciting as the journey itself.
 
-Deployment Link: odoo-sns-globe-trotter.vercel.app   
+Deployment Link: https://odoo-sns-globe-trotter.vercel.app/
 
 Drive Link : https://drive.google.com/drive/folders/1awJ8EWYPzI7DGfm5VvwxQpfxGgq0JPYv?usp=drive_link         
 
